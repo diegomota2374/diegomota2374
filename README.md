@@ -1,5 +1,8 @@
 - 👋 Hi, I’m @diegomota2374
-- 👀 I’m interested in <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />,JavaScript,HTML,CSS,LARAVEL,NodeJS,Bagisto...
+- 👀 I’m interested in <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />,
+            <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+          ,<img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+          ,CSS,LARAVEL,NodeJS,Bagisto...
 - 
 - 🌱 I’m currently learning Laravel
 - 📫 How to reach JavaScript: O Guia Definitivo
