@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @diegomota2374
 - 👀 I’m interested in 
-            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+            
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+          
           ,JavaScript,HTML,CSS,LARAVEL,NodeJS,Bagisto...
 - 🌱 I’m currently learning Laravel
 - 📫 How to reach JavaScript: O Guia Definitivo
