@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @diegomota2374
-- 👀 I’m interested in PHP,JavaScript,HTML,CSS,LARAVEL,NodeJS,Bagisto...
+- 👀 I’m interested in 
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          ,JavaScript,HTML,CSS,LARAVEL,NodeJS,Bagisto...
 - 🌱 I’m currently learning Laravel
 - 📫 How to reach JavaScript: O Guia Definitivo
 <div align="center">
