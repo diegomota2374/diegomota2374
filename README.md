@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @diegomota2374
-- 👀 I’m interested in ,JavaScript,HTML,CSS,LARAVEL,NodeJS,Bagisto...
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+- 👀 I’m interested in <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />,JavaScript,HTML,CSS,LARAVEL,NodeJS,Bagisto...
+- 
 - 🌱 I’m currently learning Laravel
 - 📫 How to reach JavaScript: O Guia Definitivo
 <div align="center">
