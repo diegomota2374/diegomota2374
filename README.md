@@ -7,7 +7,7 @@
             <img color="with" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
             <img  height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
             <img  height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> ... 
-- 🌱 I’m currently learning JavaScrip and Laravel
+- 🌱 I’m currently learning JavaScrip, React e Next.js
 - 📫 How to reach JavaScript: O Guia Definitivo
 <div align="center">
   <a href="https://github.com/diegomota2374">
